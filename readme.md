@@ -13,3 +13,19 @@ There are two main approaches to dynamic programming:
 1. **Top-Down (Memoization)**: In this approach, you start from the original problem and work your way down to smaller subproblems. You use a data structure (usually a dictionary or an array) to store the results of subproblems as you solve them. When you encounter a subproblem you've already solved, you look up its solution rather than recalculating it.
 
 2. **Bottom-Up (Tabulation)**: In this approach, you start by solving the smallest subproblems and gradually build up to the original problem. You use a table (usually an array or a matrix) to store the solutions to subproblems and fill it in a systematic way, ensuring that you never calculate the same subproblem more than once.
+
+
+# Recipe for Memoization:
+![](https://media.giphy.com/media/sJTG6mVgO8SrWmpWbB/giphy.gif)
+
+## 1. Make it Work: <br>
+### &nbsp; &nbsp; &nbsp; • Visualize the problem as a tree <br>
+### &nbsp; &nbsp; &nbsp; • Implement the tree using recursion <br>
+### &nbsp; &nbsp; &nbsp; • Test it  <br>
+
+## 2. Make it Efficent:
+### &nbsp; &nbsp; &nbsp; • Add a memo object
+### &nbsp; &nbsp; &nbsp; • Add a base case to return memo values
+### &nbsp; &nbsp; &nbsp; • Store the return values in the memo
+
+## NOTE: Don't try to cook up an efficient solution all at a single go.
