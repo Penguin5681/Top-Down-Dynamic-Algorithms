@@ -9,7 +9,7 @@ In how many ways can you travel to the goal on a grid with
 dimensions m * n?
 write a function •gridTrave1er(m, n)' that calculates this.
 
-### Brute Force Thinking Process:
+# Brute Force Approach (Results in TLE for larger m, n):
 ### Consider the following 3 x 7 grid:
 ![image](https://github.com/Penguin5681/Dynamic-Algorithms/assets/85027012/06e55972-3ba5-4089-a0ab-104f98391cf3)
 
