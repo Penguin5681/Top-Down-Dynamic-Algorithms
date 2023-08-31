@@ -19,13 +19,7 @@ const fib = (n) => {
 
 ## Here's how it works for Fibonacci numbers:
 
-1. Create a data structure (usually an array or a dictionary) to store the Fibonacci numbers you've already calculated.
-
-2. When you need to calculate a Fibonacci number, first check if it's already in your data structure. If it is, simply return the stored value.
-
-3. If it's not in your data structure, calculate it as you normally would (using the recursive formula), but before returning the result, store it in your data structure.
-
-4. Repeat steps 2 and 3 as needed.
+### 1. Create a data structure (usually an array or a dictionary) to store the Fibonacci numbers you've already calculated. <br> <br> 2. When you need to calculate a Fibonacci number, first check if it's already in your data structure. If it is, simply return the stored value. <br> <br> 3. If it's not in your data structure, calculate it as you normally would (using the recursive formula), but before returning the result, store it in your data structure. <br> <br> 4. Repeat steps 2 and 3 as needed.
 
 ### Here's a javascript example of the implementation:
 
