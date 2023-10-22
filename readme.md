@@ -16,7 +16,8 @@ There are two main approaches to dynamic programming:
 
 
 # Recipe for Memoization:
-![](https://media.giphy.com/media/sJTG6mVgO8SrWmpWbB/giphy.gif)
+![](https://media.giphy.com/media/qSSXa4mGxZGwNhG934/giphy.gif)
+
 
 ## 1. Make it Work: <br>
 ### &nbsp; &nbsp; &nbsp; • Visualize the problem as a tree <br>
