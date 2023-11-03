@@ -1,5 +1,5 @@
-# Dynamic Programming Tutorial
 ## <b> Note: </b> This Repo is no longer being maintained, however feel free to fork and make changes ;)
+# Dynamic Programming Tutorial
 
 Dynamic programming is a powerful problem-solving technique used in computer science and mathematics to efficiently solve a wide range of problems by breaking them down into smaller subproblems and storing the results of these subproblems in a table (usually an array or matrix). This approach is particularly useful when a problem can be broken down into overlapping subproblems, as it helps avoid redundant calculations by storing and reusing intermediate results.
 
